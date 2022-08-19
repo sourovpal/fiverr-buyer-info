@@ -1,0 +1,15 @@
+CRM.genial.do
+
+oute::get('/languages/delete/{id}', 'LanguageController@delete')->name('languages.delete');
+admin@admin.com
+123456
+=====================
+ftp pass
+[YeC1}L?0KS8
+==========================================
+https://crm.genial.do/
+===========cpanel==========
+https://priva250.spindns.com:2083/logout/?locale=es_419
+
+crmgenial
+iM&.N3JEQVrD
